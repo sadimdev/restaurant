@@ -2,7 +2,7 @@ import React from 'react'
 
 const MenuPage = () => {
   return (
-    <div>MenuPage</div>
+    <div className='text-primary-color'>MenuPage</div>
   )
 }
 
